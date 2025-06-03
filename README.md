@@ -24,6 +24,9 @@ Through **5 dynamic and interactive dashboards**, the analysis dives deep into s
 ### 2️⃣ Talent Acquisition Dashboard
 *Evaluates hiring source performance and recruitment ROI.*
 
+![Dashboard Preview](assets/Dash4.png)
+
+
 - **Top Sources:** LinkedIn (21%), Referral (20%)
 - **Key Insight:** Internal hires have best performance & retention
 - **Departmental View:** Source vs hiring department breakdown
@@ -81,11 +84,8 @@ Through **5 dynamic and interactive dashboards**, the analysis dives deep into s
 
 ## 🖼️ Dashboard Samples
 
-| Scorecard | Talent | Women |
-|----------|--------|--------|
-| ![Scorecard](./assets/scorecard.png) | ![Talent](./assets/talent.png) | ![Women](./assets/women.png) |
 
-> *(Add these sample dashboard images to a folder called `/assets/` in your repo for proper display.)*
+
 
 ---
 
