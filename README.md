@@ -56,7 +56,7 @@ Through **5 dynamic and interactive dashboards**, the analysis dives deep into s
 
 - **Underrepresented Employees:** 32%  
 - **Ethnic Breakdown:** Māori, Pasifika, Asian, AMELA, European  
-- **Turnover Hotspot:** AMELA Female turnover at 23%  
+- **Turnover Hotspot:** AMELA male turnover at 23%  
 - **New Hires:** Tracked over 10 years by gender
 
 ---
