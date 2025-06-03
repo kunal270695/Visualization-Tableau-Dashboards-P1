@@ -98,16 +98,6 @@ Through **5 dynamic and interactive dashboards**, the analysis dives deep into s
 
 ---
 
-## 🙌 Team & Contribution
-
-Built as part of a group project during the **Master of Business Analytics** program.
-
-- 🔍 **Focus:** Real-world HR storytelling through analytics  
-- 💼 **Organisation:** Inspired by Contact Energy NZ’s ESG & annual reports  
-- 💬 **Role:** Dashboard development, insights extraction, presentation strategy
-
----
-
 ## ⚠️ Disclaimer
 
 The dataset used is **synthetic/mock data**, designed to reflect proportions and patterns publicly shared by Contact Energy NZ. This project is strictly for **educational and portfolio** purposes.
@@ -118,6 +108,6 @@ The dataset used is **synthetic/mock data**, designed to reflect proportions and
 
 If you found this project insightful:
 - ⭐ Star the repo
-- 🧑‍💻 [Connect on LinkedIn](https://linkedin.com/in/your-profile)
+- 🧑‍💻 [Connect on LinkedIn](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/kunal-tatiya/)
 - 📧 Reach out for collaboration or freelance analytics projects
 
