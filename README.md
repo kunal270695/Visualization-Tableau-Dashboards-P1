@@ -13,7 +13,7 @@ Through **5 dynamic and interactive dashboards**, the analysis dives deep into s
 ### 1️⃣ HR Analytics Scorecard
 *A high-level snapshot of key workforce metrics for leadership review.*
 
-![Dashboard Preview](Assets/Dash1.png)
+![Dashboard Preview](Assets/Dash6.png)
 
 
 - **Total Employees:** 1,234  
@@ -27,7 +27,7 @@ Through **5 dynamic and interactive dashboards**, the analysis dives deep into s
 ### 2️⃣ Talent Acquisition Dashboard
 *Evaluates hiring source performance and recruitment ROI.*
 
-![Dashboard Preview](Assets/Dash2.png)
+![Dashboard Preview](Assets/Dash7.png)
 
 
 - **Top Sources:** LinkedIn (21%), Referral (20%)
@@ -39,7 +39,7 @@ Through **5 dynamic and interactive dashboards**, the analysis dives deep into s
 ### 3️⃣ Women Diversity & Growth
 *Analyzes female representation across roles, departments, and leadership.*
 
-![Dashboard Preview](Assets/Dash3.png)
+![Dashboard Preview](Assets/Dash8.png)
 
 - **Women in Workforce:** 45.38%  
 - **Women in Leadership:** 47.5%  
@@ -52,7 +52,7 @@ Through **5 dynamic and interactive dashboards**, the analysis dives deep into s
 ### 4️⃣ DEI (Diversity, Equity & Inclusion) Dashboard
 *Highlights ethnic diversity, turnover and hiring patterns across demographics.*
 
-![Dashboard Preview](Assets/Dash4.png)
+![Dashboard Preview](Assets/Dash9.png)
 
 - **Underrepresented Employees:** 32%  
 - **Ethnic Breakdown:** Māori, Pasifika, Asian, AMELA, European  
@@ -64,7 +64,7 @@ Through **5 dynamic and interactive dashboards**, the analysis dives deep into s
 ### 5️⃣ Age Distribution Dashboard
 *Workforce segmentation by age and department.*
 
-![Dashboard Preview](Assets/Dash5.png)
+![Dashboard Preview](Assets/Dash10.png)
 
 - **Largest Age Group:** 30–50 (56%)  
 - **High Retention:** 91% for under-30s  
